@@ -7,5 +7,5 @@ app.get('/', function(req, res){
 });
 
 app.listen(port, function(){
-    console.log('Rodando na porta %s', port)
+    console.log('Rodando na porta %s', port);
 });
